@@ -1,7 +1,6 @@
-<!-- Replace this reserved space with your banner image when you add it. -->
-<div align="center">
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-</div>
+<p align="center">
+  <img src="./profile-banner.jpg" alt="Anurag's profile banner" width="100%" />
+</p>
 
 ## 👋 About Me
 
