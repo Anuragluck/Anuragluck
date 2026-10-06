@@ -1,17 +1,21 @@
+<!-- Replace this reserved space with your banner image when you add it. -->
+<div align="center">
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+</div>
+
 ## 👋 About Me
 
 **AI/ML Engineer | Multi-Agent Systems | LLM Applications**
 
-I build AI systems across multi-agent workflows, LLM applications, and applied machine learning. At Credal.ai, I contributed to model optimization, improving accuracy from **78% to 87%** and reducing response latency by **14%** after evaluating 20+ prompt variants across 1,500+ customer inquiries. I focus on measurable results and practical systems.
+AI/ML engineer focused on multi-agent systems, LLM applications, and applied machine learning. I enjoy exploring ideas through experimentation and turning them into practical tools with clear, measurable outcomes.
 
 ### Selected work
 
 - **[AI Hedge Fund](https://github.com/Anuragluck/Ai-Hedge-Fund)** — LangGraph-based, three-agent stock analysis with six configurable risk controls, audit trails, and **22/22 passing tests**; benchmarked across 24 ticker and market cases.
 - **[Customer Churn Analytics Platform](https://github.com/Anuragluck/Customer-churn-analytics-platform..)** — XGBoost model with **86%+ accuracy** across 7,043 records, SHAP explanations, PostgreSQL scoring, and Streamlit, Tableau, and Power BI dashboards.
 - **Medical Diagnosis Project** — Compared four models across 10,000+ records, reaching **89% accuracy**, with a Streamlit app and PostgreSQL.
-- **Recognition** — 2nd place at an IIT (ISM) Dhanbad hackathon; 500+ DSA problems solved in C++.
 
-Currently pursuing a B.Tech in Electronics & Communication Engineering with a minor in AI & ML at **BIT Mesra** (2024–2028).
+Currently pursuing a B.Tech in Electronics & Communication Engineering at **BIT Mesra** (2024–2028).
 
 ## 🌐 Socials
 
