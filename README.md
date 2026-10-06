@@ -2,12 +2,13 @@
 
 **AI/ML Engineer | Multi-Agent Systems | LLM Applications**
 
-I build dependable AI systems, from multi-agent research workflows to interpretable machine-learning products. During my AI Model Optimization Contributor role at Credal.ai (June–August 2025), I improved model accuracy from **78% to 87%** and reduced response latency by **14%**, evaluating 20+ prompt variants across 1,500+ customer inquiries. I care about measurable results, rigorous evaluation, and systems that are practical to use.
+I build AI systems across multi-agent workflows, LLM applications, and applied machine learning. At Credal.ai, I contributed to model optimization, improving accuracy from **78% to 87%** and reducing response latency by **14%** after evaluating 20+ prompt variants across 1,500+ customer inquiries. I focus on measurable results and practical systems.
 
 ### Selected work
 
-- **AI Hedge Fund** — A LangGraph-based, three-agent stock-analysis system with six configurable risk controls, audit trails, and **22/22 passing tests**. Benchmarked across 24 ticker/market cases.
-- **Customer Churn Analytics Platform** — XGBoost model with **86%+ accuracy** across 7,043 records, SHAP explanations, PostgreSQL scoring, and Streamlit, Tableau, and Power BI dashboards.
+- **[AI Hedge Fund](https://github.com/Anuragluck/Ai-Hedge-Fund)** — LangGraph-based, three-agent stock analysis with six configurable risk controls, audit trails, and **22/22 passing tests**; benchmarked across 24 ticker and market cases.
+- **[Customer Churn Analytics Platform](https://github.com/Anuragluck/Customer-churn-analytics-platform..)** — XGBoost model with **86%+ accuracy** across 7,043 records, SHAP explanations, PostgreSQL scoring, and Streamlit, Tableau, and Power BI dashboards.
+- **Medical Diagnosis Project** — Compared four models across 10,000+ records, reaching **89% accuracy**, with a Streamlit app and PostgreSQL.
 - **Recognition** — 2nd place at an IIT (ISM) Dhanbad hackathon; 500+ DSA problems solved in C++.
 
 Currently pursuing a B.Tech in Electronics & Communication Engineering with a minor in AI & ML at **BIT Mesra** (2024–2028).
