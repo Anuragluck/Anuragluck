@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./profile-banner.jpg" alt="Anurag's profile banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Anuragluck/Anuragluck/main/photo_2026-10-07_01-21-14.jpg" alt="Anurag's profile banner" width="100%" />
 </p>
-
 ## 👋 About Me
 
 **AI/ML Engineer | Multi-Agent Systems | LLM Applications**
